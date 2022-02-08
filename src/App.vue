@@ -16,7 +16,7 @@
 
 		<div class="val">{{ val2 }}</div>
 		<div class="itemTitle">{{ itemTitle }}</div>
-		<child message="부모에서 자식으로 데이터 넘겨주기" @callParent="setTxt2"></child>
+		<child message="부모에서 자식으로 데이터 넘겨주기1" @callParent="setTxt2"></child>
 	</div>
 </template>
 
